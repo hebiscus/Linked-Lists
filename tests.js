@@ -1,5 +1,4 @@
-import { LinkedList } from "index.js";
-import { Node } from "index.js";
+import LinkedList from "index.js";
 
 //creating a new List
 const firstList = new LinkedList();
