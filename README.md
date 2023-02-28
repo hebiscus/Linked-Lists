@@ -1,2 +1,3 @@
 # Linked-Lists
-Odin Project: Linked Lists
+Linked list project utilising classes. 
+
